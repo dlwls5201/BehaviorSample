@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- toolbar height -->
+    <dimen name="toolbar_height">100dp</dimen>
+
+    <!-- appbar height -->
+    <dimen name="appbar_height">329dp</dimen>
+</resources>
